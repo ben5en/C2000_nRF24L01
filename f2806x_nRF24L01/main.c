@@ -51,7 +51,7 @@
 #define D9  GPIO34
 #define D10 GPIO39
 
-#define TX_EN   1       // select device is TX and / or
+#define TX_EN   1     // select device is TX and / or
 #define RX_EN   1     // RX
 
 // ----------------------------------------------------------------------
